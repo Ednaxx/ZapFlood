@@ -1,0 +1,18 @@
+{
+  "name": "Zap Flood",
+  "version": "0.1.0",
+  "description": "Flood your friends' zapzap!",
+  "permissions": ["storage", "tabs"],
+  "host_permissions": ["https://*.whatsapp.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://*.whatsapp.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_title": "Zap Flood",
+    "default_popup": "popup.html"
+  },
+  "manifest_version": 3
+}
