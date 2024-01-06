@@ -12,7 +12,13 @@
   ],
   "action": {
     "default_title": "Zap Flood",
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/zapFloodIcon16.png",
+      "32": "icons/zapFloodIcon32.png",
+      "64": "icons/zapFloodIcon64.png",
+      "128": "icons/zapFloodIcon128.png"
+    }
   },
   "manifest_version": 3
 }

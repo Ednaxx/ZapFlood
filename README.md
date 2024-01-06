@@ -1,10 +1,12 @@
 # Zap Flood!
 
-## Flood your friends' (and enemies') chats! Use this with responsability.
+## Flood your friends' (and enemies') chats!
 
 This project is a Google Chrome extension for message flooding automation on Whatsapp Web. Please use this carefully and bear in mind that you own any responsabilities for the consequences of its use (Risk of friendship loss). 
 
-Feel free to make any contributions.
+Feel free to make any contributions and use this with responsability.
+
+<img src="./icons/zapFloodIcon.png" alt="zapfloodicon" width="150"/>
 
 ## Installation guide.
 
