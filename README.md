@@ -25,3 +25,8 @@ You can do this by visiting ```chrome://extensions```. Make sure to activate the
 The extension will be available for use at your browser's top right corner. Keep in mind that so far, you must have your Whatsapp Web logged and a contact selected for the extension to work.
 
 There you go! Now you are ready to flood your friends (and enemies).
+
+## Contributors
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
