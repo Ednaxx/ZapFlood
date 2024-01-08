@@ -28,5 +28,5 @@ There you go! Now you are ready to flood your friends (and enemies).
 
 ## Contributors
 
-<!-- readme: contributors -start -->
-<!-- readme: contributors -end -->
+<!-- readme: collaborators,contributors -start -->
+<!-- readme: collaborators,contributors -end -->
