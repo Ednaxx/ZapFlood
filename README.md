@@ -29,4 +29,28 @@ There you go! Now you are ready to flood your friends (and enemies).
 ## Contributors
 
 <!-- readme: collaborators,contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/rafinhaLQ">
+            <img src="https://avatars.githubusercontent.com/u/87668199?v=4" width="100;" alt="rafinhaLQ"/>
+            <br />
+            <sub><b>Rafael Luz</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/JGaaaabs">
+            <img src="https://avatars.githubusercontent.com/u/102195333?v=4" width="100;" alt="JGaaaabs"/>
+            <br />
+            <sub><b>João Gabriel Lofiego</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Ednaxx">
+            <img src="https://avatars.githubusercontent.com/u/102628698?v=4" width="100;" alt="Ednaxx"/>
+            <br />
+            <sub><b>Alexandre Morais</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators,contributors -end -->
