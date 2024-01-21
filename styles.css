@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    padding: 5px 1rem;
+    background-color: #00a884;
+    border: 2px #00a884 solid;
+    border-radius: 20px;
+    transition: 0.3s;
+    align-self: flex-start;
+}
+
+button:hover{
+    background-color: white;
+    cursor: pointer;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    width: 300px;
+    padding: 1rem;
+}
+
+input{
+    padding: 5px;
+    border: 1px gray solid;
+    transition: 0.3s;
+}
+
+input:hover{
+    border: 1px #176b5b solid;
+}
+
+input:focus{
+    outline: 1px solid #2ec452;
+}
+
+.labelInput{
+    display: flex;
+    flex-direction: column;
+}
